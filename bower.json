@@ -20,7 +20,7 @@
     "persian"
   ],
   "dependencies": {
-    "adm-dtp": "*"
+    "adm-dtp": "~1.2.0"
   },
   "devDependencies": {
     "angular-schema-form": ">= 0.8",
